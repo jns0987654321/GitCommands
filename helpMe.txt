@@ -1,3 +1,30 @@
-Hello SOME text
+GIT commands
 
-Some more text
+//setup
+git init
+
+//add file
+git add
+//add all in current folder
+git add .
+//add everything everywhere
+git add -A
+
+//git status of repo
+git status
+
+//commit files
+git commit -m “message”
+//see commit log
+git log
+
+//list branches
+git branch
+//checkout branch
+git checkout
+//checkout master
+git checkout master
+//checkout branch
+git checkout 7digitcommitnumber
+
+git merge BRANCHNAME
