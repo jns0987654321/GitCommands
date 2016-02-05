@@ -28,3 +28,8 @@ git checkout master
 git checkout 7digitcommitnumber
 
 git merge BRANCHNAME
+
+//git remote operation
+git remote add origin SSHURL
+git pull origin master
+git push origin master
